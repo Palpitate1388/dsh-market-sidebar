@@ -1,0 +1,4 @@
+# This directory is both a Git repository and the live plugin source that the
+# profile loads. Keep every text file LF so a checkout can never rewrite the
+# bytes the running install depends on with CRLF.
+* text=auto eol=lf

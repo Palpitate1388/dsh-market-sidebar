@@ -1,0 +1,13 @@
+# Local installs and editor/OS noise — none of this belongs in the repository.
+node_modules/
+
+# Backup copies created while editing the client bundle by hand.
+*.bak
+*.orig
+*.rej
+
+# Logs and OS metadata.
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
