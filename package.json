@@ -5,7 +5,12 @@
   "description": "Puts the dsh-market plugin market into the left sidebar footer, to the right of 远程控制.",
   "type": "module",
   "main": "lib/index.js",
-  "license": "MIT",
+  "license": "MIT",  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palpitate1388/dsh-market-sidebar.git"
+  },
+  "homepage": "https://github.com/Palpitate1388/dsh-market-sidebar#readme",
+  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "market", "sidebar"],
   "files": [
     "lib",
     "cordis.patch.yml",
